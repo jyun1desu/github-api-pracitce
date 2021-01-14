@@ -13,7 +13,7 @@ export default createStore({
     },
   },
   actions: {
-    async getRoomsData({
+    async getGithubData({
       commit
     }) {
       try {
