@@ -1,24 +1,2 @@
-# github-api-pracitce
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+DEMO，可以clone下來之後用自己的token試試看～
+![demo](https://github.com/jyun1desu/github-api-pracitce/blob/master/ezgif-1-2ed76f319af8.gif)
