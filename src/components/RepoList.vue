@@ -48,6 +48,6 @@ export default {
   flex-direction: column;
   list-style: none;
   width: 60%;
-  margin: 0 auto;
+  margin: 20px auto 0;
 }
 </style>
