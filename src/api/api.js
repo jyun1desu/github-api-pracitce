@@ -1,5 +1,5 @@
 import axios from 'axios';
-const token = 'c2e5c76901e50bd1c4d168f592d4ceb9cd972b5a';
+const token = process.env.VUE_APP_GITHUB_KEY;
 
 const hotelAPI = axios.create({
     baseURL: 'https://api.github.com/',
